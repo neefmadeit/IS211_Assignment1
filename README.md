@@ -1,1 +1,1 @@
-My week 1 assigment.
+My week 1 assignment.
