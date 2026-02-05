@@ -19,5 +19,5 @@ def test_list_divide():
     list_divide([1, 2, 3, 4, 5], 1)
 
 if __name__ == "__main__":
-    print("Running tests for list_divide:")
+
     test_list_divide()
